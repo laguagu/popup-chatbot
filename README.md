@@ -18,7 +18,7 @@ A modern, interactive customer support chatbot built with Next.js, TypeScript, a
 npm install
 ```
 
-2. Add OPENAI_API_KEY
+2. Add OPENAI_API_KEY to .env.local
 
 ```env
 OPENAI_API_KEY=your_api_key

@@ -18,13 +18,10 @@ A modern, interactive customer support chatbot built with Next.js, TypeScript, a
 npm install
 ```
 
-2. Set up your AI provider
-
-- Create an API route for your AI provider
-- Configure environment variables:
+2. Add OPENAI_API_KEY
 
 ```env
-AI_PROVIDER_API_KEY=your_api_key
+OPENAI_API_KEY=your_api_key
 ```
 
 3. Run the development server
